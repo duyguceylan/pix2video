@@ -55,6 +55,9 @@ If you make use of the work, please cite our paper.
 
 - This code builds on [diffusers](https://github.com/huggingface/diffusers). Thanks for open-sourcing!
 
+## License
+This code is released under the Adobe Research License agreement and is for non-commercial and research purposes only.
+
 ## Contact
 
 If you have any questions, feel free to open an issue or contact us through e-mail (duygu.ceylan@gmail.com or chunhaoh@adobe.com).
