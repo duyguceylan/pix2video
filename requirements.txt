@@ -1,0 +1,8 @@
+tqdm
+huggingface_hub
+pytorch_lightning
+opencv-python
+imageio
+einops
+transformers
+accelerate
